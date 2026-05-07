@@ -1,4 +1,4 @@
-# Service Management Platform
+# ONEKEEP: Industrial Service Marketplace
 
 [![Node.js](https://img.shields.io/badge/Node.js-v14%2B-green?logo=node.js)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-4.x-000000?logo=express)](https://expressjs.com/)
