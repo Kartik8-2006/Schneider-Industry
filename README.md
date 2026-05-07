@@ -387,7 +387,6 @@ GET    /api/workers/:id/performance # Performance metrics
 - **AMC Plans**: `/api/amc/*`
 - **Admin**: `/api/admin/*`
 
-For detailed API documentation with request/response examples, see [API_DOCUMENTATION.md](./API_DOCUMENTATION.md)
 
 ---
 
@@ -616,18 +615,14 @@ Detailed explanation of changes made...
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 📞 Support & Contact
 
 For support, feature requests, or bug reports:
 
-- **Email**: support@yourcompany.com
-- **Issues**: [GitHub Issues](https://github.com/yourusername/repo/issues)
+- **Email**: kartiktomarm111@.com
+- **Issues**: [GitHub Issues](https://github.com/Kartik8-2006/repo/issues)
 - **Documentation**: [Full Docs](./docs/README.md)
 - **FAQ**: [Frequently Asked Questions](./FAQ.md)
 
